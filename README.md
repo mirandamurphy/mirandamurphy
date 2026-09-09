@@ -10,12 +10,12 @@ I'm a 2nd year CS student who enjoys analyzing problems and building backend sys
 - 🌱 Currently learning: C++ & Neo4j
 
 ## 🧠 My Skills
-- **Languages:** Java, Python, SQL, Bash
-- **Databases:** PostgreSQL, MySQL, Oracle, SQLite
-- **Frameworks:** Spring Boot, Jakarta EE
-- **Architecture:** REST APIs, Microservices
-- **Libraries:** Numpy, Pandas, Ultralytics 
-- **Tools:** Docker, Git, Maven, Postman, MLflow, Jupyter Notebooks
+- Languages: Java, Python, SQL, Bash
+- Databases: PostgreSQL, MySQL, Oracle, SQLite
+- Frameworks: Spring Boot, Jakarta EE
+- Architecture: REST APIs, Microservices
+- Libraries: Numpy, Pandas, Ultralytics 
+- Tools: Docker, Git, Maven, Postman, MLflow, Jupyter Notebooks
 
 ## 📫 How to reach me
 Email: mirandamurphy.dev@protonmail.com
