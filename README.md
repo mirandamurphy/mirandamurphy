@@ -7,14 +7,12 @@ I'm a 2nd year CS student who enjoys analyzing problems and building backend sys
 ## 👩‍💻 About Me
 - 🔭 Pursuing a BSc in Computing & Info Systems (AI/ML Minor)
 - 🚀 Focus: backend, data, and ML engineering
-- 🌱 Currently learning: C++ & Neo4j
+- 🌱 Currently learning: C++
 
 ## 🧠 My Skills
 - Languages: Java, Python, SQL
 - Databases: PostgreSQL, MySQL, Oracle, SQLite
-- Frameworks: Spring Boot, Jakarta EE
-- Architecture: REST APIs
-- Libraries: Numpy, Pandas, Ultralytics 
+- Frameworks & Libraries: Spring Boot, Jakarta EE, NumPy, Pandas
 - Tools: Docker, Git
 
 ## 📫 How to reach me
