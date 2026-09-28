@@ -15,6 +15,4 @@ I'm a 2nd year CS student who enjoys analyzing problems and building backend sys
 - Frameworks & Libraries: Spring Boot, Jakarta EE, NumPy, Pandas
 - Tools: Docker, Git
 
-## 📫 How to reach me
-Email: mirandamurphy.dev@protonmail.com
 
